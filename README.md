@@ -1,3 +1,3 @@
 # ebooks
 
-ebooks de tecnologia
+ebooks de tecnologia, computação e sociedade
